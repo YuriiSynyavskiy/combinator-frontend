@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.ant-menu-vertical {
+  list-style-type: none;
+}
+
+.instructions-btn {
+  margin-right: 47vw !important;
+}
+
+.combinations{
+  margin-top: 5vh !important;
+}
+
+.main-block {
+  margin-left: 5vw !important;
+
+}
